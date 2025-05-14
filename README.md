@@ -1,6 +1,3 @@
-# Maps-Ilu
-Mapa de iluminacao Carmo da Cachoeira MG
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
